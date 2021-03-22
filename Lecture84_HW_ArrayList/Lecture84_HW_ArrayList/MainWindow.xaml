@@ -1,0 +1,19 @@
+﻿<Window x:Class="Lecture84_HW_ArrayList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture84_HW_ArrayList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="addBtn" Content="Add" HorizontalAlignment="Left" Margin="111,169,0,0" VerticalAlignment="Top" Width="163" Height="43" Click="addButton_Click"/>
+        <Button x:Name="removeBtn" Content="Remove" HorizontalAlignment="Left" Margin="301,169,0,0" VerticalAlignment="Top" Width="163" Height="43" Click="removeButton_Click"/>
+        <Button x:Name="showBtn" Content="Show All" HorizontalAlignment="Left" Margin="496,169,0,0" VerticalAlignment="Top" Width="163" Height="43" Click="showAllButton_Click"/>
+        <Label Content="Show Data" HorizontalAlignment="Left" Margin="111,238,0,0" VerticalAlignment="Top" Width="136"/>
+        <TextBox x:Name="showData" HorizontalAlignment="Left" Height="93" Margin="111,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="548" SpellCheck.IsEnabled="True" IsEnabled="False" Background="#FFC5E1D4"/>
+        <TextBox x:Name="inputKey" HorizontalAlignment="Left" Height="24" Margin="111,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="548" Text="Key"/>
+        <TextBox x:Name="inputValue" HorizontalAlignment="Left" Height="24" Margin="111,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="548" Text="Value"/>
+
+    </Grid>
+</Window>
