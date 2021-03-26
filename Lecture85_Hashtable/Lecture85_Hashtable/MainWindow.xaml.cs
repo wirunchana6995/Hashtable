@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Lecture84_HW_ArrayList
+namespace Lecture85_Hashtable
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -58,7 +58,7 @@ namespace Lecture84_HW_ArrayList
             //Show All
             foreach (string key in icollection)
             {
-                temp_value += hashtable[key].ToString() + "\n";  
+                temp_value += hashtable[key].ToString() + "\n";
             }
 
             showData.Text = temp_value;

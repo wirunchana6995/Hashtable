@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Lecture84_HW_ArrayList
+namespace Lecture85_Hashtable
 {
     /// <summary>
     /// Interaction logic for App.xaml

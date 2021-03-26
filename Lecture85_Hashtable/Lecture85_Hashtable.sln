@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture84_HW_ArrayList", "Lecture84_HW_ArrayList\Lecture84_HW_ArrayList.csproj", "{28CF8153-4A2E-453D-8119-A8160A2C3C12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture85_Hashtable", "Lecture85_Hashtable\Lecture85_Hashtable.csproj", "{4E79EB42-CA9F-4459-A170-1D27CB468F1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28CF8153-4A2E-453D-8119-A8160A2C3C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28CF8153-4A2E-453D-8119-A8160A2C3C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28CF8153-4A2E-453D-8119-A8160A2C3C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28CF8153-4A2E-453D-8119-A8160A2C3C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E79EB42-CA9F-4459-A170-1D27CB468F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E79EB42-CA9F-4459-A170-1D27CB468F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E79EB42-CA9F-4459-A170-1D27CB468F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E79EB42-CA9F-4459-A170-1D27CB468F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C41E93BA-ADE9-40A6-8D7D-B720B5FDECD8}
+		SolutionGuid = {A5BB5CE5-C99C-41A6-A6D0-42A34C81ADCC}
 	EndGlobalSection
 EndGlobal

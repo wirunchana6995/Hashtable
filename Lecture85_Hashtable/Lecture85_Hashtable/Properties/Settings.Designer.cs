@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lecture84_HW_ArrayList.Properties
+namespace Lecture85_Hashtable.Properties
 {
 
 
